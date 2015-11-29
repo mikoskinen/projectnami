@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ERROR);
 if ( !defined( 'SUNRISE_LOADED' ) )
 	define( 'SUNRISE_LOADED', 1 );
 
